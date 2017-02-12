@@ -19,7 +19,7 @@
 
 ---
 
-# Why Are We Here?
+# **Why Are We Here?**
 
 - To Learn Something
 - To Celebrate Community
@@ -28,15 +28,7 @@
 
 ---
 
-# _*Judging Plan*_
-- Five Minute Pitch
-- Up to Five Minutes of Questions
-- 3 Breakout Areas (Jobs, Gates, Microsoft)
-- Room Assignments: 
-
----
-
-## Judging
+## _*Judging*_
 - **Theme Alignment:** does the hack support social good, diversity and/or inclusivity?
 - **Disrupts** a problem, industry or demographic
 - Overall **challenge** to build
@@ -44,71 +36,65 @@
 
 ---
 
-![right 20%](prize.png)
-
-## [fit] Prizes
-- 1st Place: Apple Watch
-- 2nd Place: GoPro Hero5 Session
-- 3rd Place: Amazon Dot
+# **Judging Plan**
 
 ---
 
-## [fit] Thank you!
+# _*Judging Part I*_
+- Five Minute Pitch
+- Up to Five Minutes of Questions
+- Three Breakout Areas (Jobs, Gates, Microsoft)
+- Three Teams per Room + 1 Wildcard
 
 ---
 
-![100%](capitalone-logo.png)
+# _*Judging Part II*_
+- Ten Teams Pitch
+- Fours Finalist Judges
+- **PRIZES!**
 
 ---
 
-![100%](1776-logo-white.png)
+# [fit] _*Breakout Room Assigments*_
+# [fit] **bit.do/room-assignments**
 
 ---
 
-![left](joker.jpg)
-
-## [fit] But Seriously...
+![inline](dtd-white.png)
 
 ---
 
-## Code of Conduct
-- static.mlh.io/docs/mlh-code-of-conduct.pdf
+# [fit] **Did I mention...**
 
 ---
 
-## [fit] Space Rules
+![150%](awesome.jpg)
 
 ---
 
-# [fit] Food Schedule!
-## [fit] _**All in the Kitchen to your right!**_
+# [fit] **Final Pitches**
 
 ---
 
-## [fit] Saturday
-- 9AM: Breakfast
-- 12:30PM: Lunch
-- 6:30PM:	Dinner
-- 12AM: Food Trucks!
+# [fit] _*Let the deliberation begin...*_
 
 ---
 
-## [fit] Sunday
-- 7AM: Breakfast
-- 12PM: Lunch
+# [fit] First, Prizes from **MLH**
 
 ---
 
-## Event Help
-- `#event-help` on Slack
-- Registration Desk
+# [fit] Best **Domain.com** Domain
+### _*Domain.com Swag Bags & Goodies*_
 
 ---
 
-## **Emergency?** 
-- Find Amanda or Austin
-- `@austin` or `@amanda` on Slack
+# [fit] Best use of **Amazon Web Services**
+### [fit] _*$250 in AWS Credit for Each Team Member*_
 
 ---
 
-# [fit] _*Let the Hacking Begin*_
+# [fit] Best Hack Against Online Harassment
+### [fit]_*Hack Harassment Power Bank & One-Pager*_
+
+---
