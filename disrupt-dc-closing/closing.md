@@ -64,6 +64,23 @@
 
 ---
 
+~~Factify~~
+~~PocketLawyer~~
+~~March On~~
+~~Involv~~
+~~Off.~~
+~~Love to Eat~~
+~~Pillar~~
+~~Perfect Fit~~
+~~Locc~~
+Politix
+
+---
+
+# [fit] _*Let the deliberation begin...*_
+
+---
+
 # [fit] **Did I mention...**
 
 ---
@@ -72,15 +89,7 @@
 
 ---
 
-# [fit] **Final Pitches**
-
----
-
-# [fit] _*Let the deliberation begin...*_
-
----
-
-# [fit] First, Prizes from **MLH**
+# [fit] Prizes from **MLH**
 
 ---
 
@@ -94,7 +103,30 @@
 
 ---
 
-# [fit] Best Hack Against Online Harassment
-### [fit]_*Hack Harassment Power Bank & One-Pager*_
+The Top 3
 
 ---
+
+# [fit] **3rd Place**
+
+---
+
+# [fit] **2nd Place**
+
+---
+
+# [fit] **1st Place**
+
+---
+
+# [fit] THANK YOU!
+
+---
+
+## _*Shuttles*_
+- Arrive Between 4 & 4:30 PM (DOUBLE CHECK IT IS YOUR BUS)
+
+## _*Reimbursement (forms to be sent tonight)*_
+- Only Scholarship students will be reimbursed for all travel 
+- You will be reimbursed for parking @ or around 1776
+- KEEP RECEIPTS!!
